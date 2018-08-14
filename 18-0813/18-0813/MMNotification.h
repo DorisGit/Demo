@@ -8,6 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
+static NSString *NOTIFICATION_NAME = @"NOTIFICATION_NAME";
+
+
 @interface MMNotification : NSObject
 /** 通知队列 */
 @property (nonatomic, strong) NSMutableArray *notifications;

@@ -22,6 +22,11 @@
         [self.port setDelegate:self];
         [[NSRunLoop currentRunLoop] addPort:self.port
                                     forMode:NSRunLoopCommonModes];
+        
+        [[NSNotificationCenter defaultCenter] addObserver:self
+                                                 selector:@selector(dealNotification:)
+                                                     name:NOTIFICATION_NAME
+                                                   object:nil];
     }
     return self;
 }
@@ -55,5 +60,11 @@
         NSLog(@"Receive notification，Current thread = %@", [NSThread currentThread]);
         NSLog(@"Process notification");
     }
+}
+
+- (void)dealloc {
+    [[NSNotificationCenter defaultCenter] removeObserver:self
+                                                    name:NOTIFICATION_NAME
+                                                  object:nil];
 }
 @end

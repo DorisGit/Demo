@@ -13,6 +13,8 @@
 @interface ViewController ()
 /** notifi */
 @property (nonatomic, strong) MMNotification *notifi;
+/** id */
+@property (nonatomic, strong) id observer;
 @end
 
 @implementation ViewController
@@ -20,7 +22,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    [self demo4];
+    [self demo5];
 }
 
 
@@ -29,17 +31,33 @@
     // Dispose of any resources that can be recreated.
 }
 
+// 通过系统提供方法将Notification定向到指定队列线程去执行方法，麻烦是必须记录oberserver以便在后续进行移除掉
+- (void)demo5 {
+    
+    dispatch_async(dispatch_get_global_queue(QOS_CLASS_BACKGROUND, 0), ^{
+        [[NSNotificationCenter defaultCenter] postNotificationName:NOTIFICATION_NAME object:nil];
+        //发送Notification
+        NSLog(@"Post notification，Current thread = %@", [NSThread currentThread]);
+    });
+    
+    self.observer = [[NSNotificationCenter defaultCenter] addObserverForName:NOTIFICATION_NAME
+                                                      object:nil
+                                                       queue:[NSOperationQueue mainQueue]
+                                                  usingBlock:^(NSNotification * _Nonnull note) {
+                                                      
+                                                      NSLog(@"Receive notification，Current thread = %@", [NSThread currentThread]);
+        
+    
+                                                  }];
+    
+}
+
 // Notification所在的默认线程中捕获发送的通知，然后将其重定向到指定的线程中。
 - (void)demo4 {
-    static NSString *NOTIFICATION_NAME = @"NOTIFICATION_NAME";
 
     MMNotification *notifi = [[MMNotification alloc] init];
     self.notifi = notifi;
     NSLog(@"初始化数据，Current thread = %@", [NSThread currentThread]);
-    [[NSNotificationCenter defaultCenter] addObserver:self.notifi
-                                             selector:@selector(dealNotification:)
-                                                 name:NOTIFICATION_NAME
-                                               object:nil];
     
     dispatch_async(dispatch_get_global_queue(QOS_CLASS_BACKGROUND, 0), ^{
         [[NSNotificationCenter defaultCenter] postNotificationName:NOTIFICATION_NAME object:nil];
@@ -52,7 +70,7 @@
 
 // 子线程中发出的通知，注册通知观察者监听到通知调用的方法也是在对应的子线程
 - (void)demo2 {
-    static NSString *NOTIFICATION_NAME = @"NOTIFICATION_NAME";
+    
     dispatch_async(dispatch_get_global_queue(QOS_CLASS_BACKGROUND, 0), ^{
         [[NSNotificationCenter defaultCenter] postNotificationName:NOTIFICATION_NAME object:nil];
 //        <NSThread: 0x12dd8b810>{number = 3, name = (null)}
@@ -89,4 +107,9 @@
     });
 }
 
+- (void)dealloc {
+    if (_observer) {
+        [[NSNotificationCenter defaultCenter] removeObserver:_observer];
+    }
+}
 @end
