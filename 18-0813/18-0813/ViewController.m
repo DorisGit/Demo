@@ -22,13 +22,17 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    [self demo5];
+    [self demo6];
 }
 
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (void)demo6 {
+    
 }
 
 // 通过系统提供方法将Notification定向到指定队列线程去执行方法，麻烦是必须记录oberserver以便在后续进行移除掉
