@@ -1,0 +1,1359 @@
+{
+  "templates": [
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1821",
+          "picUrl": "http://images01.womaiapp.com/g/898372898/778880/0.002240812842708273.%E9%9C%B8%E5%B1%8F%E4%B8&%2365533;jpg",
+          "id": 1,
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1870",
+          "picUrl": "http://images01.womaiapp.com/g/951172951/779618/0.6479967134494272.%E6%89%8B%E6%9C%BA%E8%BD%AE%E6%92%AD.jpg",
+          "id": 1,
+          "promotionType": "1"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://m.womai.com/nh/sale/2018-8/zzdzx1808/?env=app&mid=0",
+          "picUrl": "http://images01.womaiapp.com/g/898345898/775265/0.12916501162590655.%E6%89%8B%E6%9C%BA%E8%BD%AE%E6%92%AD-%E5%A4%A7%E8%9E%83%E8%9F&%2365533;jpg",
+          "id": 1,
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1868",
+          "picUrl": "http://images01.womaiapp.com/g/934425934/780792/0.8848566458207826.1125x528.jpg",
+          "id": 1,
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1852",
+          "picUrl": "http://images01.womaiapp.com/g/172811720/775187/0.8449018673214855.1.jpg",
+          "id": 1,
+          "promotionType": "1"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://m.womai.com/nh/sale/2018-8/zzlyzq1808/?env=app&mid=0&",
+          "picUrl": "http://images02.womaiapp.com/g/276351276/775293/0.09315463699770321.1125-528.jpg",
+          "id": 1,
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1856",
+          "picUrl": "http://images01.womaiapp.com/g/640505064/775264/0.7468905596338914.APP%E8%BD%AE%E6%92%AD%E7%99%BE%E8%B4%A7%E8%A1%A3%E7%89%A9%E6%B8%85%E6%B4%81---%E5%89&%2365533;2.jpg",
+          "id": 1,
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1829",
+          "picUrl": "http://images03.womaiapp.com/g/663436630/775010/0.9341501205426734.%E4%B9%B3%E5%93%81%E7%8B%82%E6%AC%A21125.jpg",
+          "id": 1,
+          "promotionType": "1"
+        }
+      ],
+      "id": "1",
+      "promotionCount": "8",
+      "resourceId": "1187dc89-05f0-425a-9eff-2ea0d5593f3e",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images01.womaiapp.com/g/902299020/778879/0.4001789025665895.%E9%9C%B8%E5%B1%8F%E4%B8&%2365533;jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "1821",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "0fe640df-a5cd-4836-8e94-a358589a1410",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1873",
+          "picUrl": "http://images03.womaiapp.com/g/610283610/775266/0.8888349555036196.1%E5%9B%BE%E6%A0%87_01.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1697",
+          "picUrl": "http://images01.womaiapp.com/g/859904859/775267/0.4185720578454849.1%E5%9B%BE%E6%A0%87_02.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1839",
+          "picUrl": "http://images03.womaiapp.com/g/792705792/775268/0.9075665782845966.1%E5%9B%BE%E6%A0%87_03.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "64",
+          "picUrl": "http://images02.womaiapp.com/g/337367337/775269/0.31534643027251297.1%E5%9B%BE%E6%A0%87_04.png"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://viph5.womai.com/activity/best-y/",
+          "picUrl": "http://images02.womaiapp.com/g/677906770/775270/0.11264542401257716.1%E5%9B%BE%E6%A0%87_05.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1812",
+          "picUrl": "http://images03.womaiapp.com/g/623627623/775271/0.16692322600195808.1%E5%9B%BE%E6%A0%87_06.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "464",
+          "picUrl": "http://images03.womaiapp.com/g/887992887/775272/0.5167061364754267.1%E5%9B%BE%E6%A0%87_07.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "661",
+          "picUrl": "http://images03.womaiapp.com/g/913578913/775273/0.5609230543497845.1%E5%9B%BE%E6%A0%87_08.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "238",
+          "picUrl": "http://images01.womaiapp.com/g/858316858/775302/0.5573126904226053.1%E5%9B%BE%E6%A0%87_09.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "68",
+          "picUrl": "http://images02.womaiapp.com/g/470381047/775274/0.7861675909371493.1%E5%9B%BE%E6%A0%87_10.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "29",
+          "picUrl": "http://images03.womaiapp.com/g/251383251/775276/0.5376198740513904.2%E5%9B%BE%E6%A0%87_01.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "62",
+          "picUrl": "http://images02.womaiapp.com/g/866458660/775277/0.5781012393651183.2%E5%9B%BE%E6%A0%87_02.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "746",
+          "picUrl": "http://images02.womaiapp.com/g/850451085/775278/0.13927204550643624.2%E5%9B%BE%E6%A0%87_03.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "6",
+          "picUrl": "http://images01.womaiapp.com/g/593249593/775280/0.7377491127972055.2%E5%9B%BE%E6%A0%87_04.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1397",
+          "picUrl": "http://images03.womaiapp.com/g/436332436/775281/0.779947000310767.2%E5%9B%BE%E6%A0%87_05.png"
+        },
+        {
+          "pointType": "CouponCenterList",
+          "pointValue": "1",
+          "picUrl": "http://images02.womaiapp.com/g/311606311/775282/0.3553331093611749.2%E5%9B%BE%E6%A0%87_06.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1007",
+          "picUrl": "http://images03.womaiapp.com/g/431982431/775284/0.35689209440500935.2%E5%9B%BE%E6%A0%87_07.png"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "302",
+          "picUrl": "http://images02.womaiapp.com/g/151999151/775285/0.70743081363191.2%E5%9B%BE%E6%A0%87_08.png"
+        },
+        {
+          "pointType": "ChargeList",
+          "pointValue": "1",
+          "picUrl": "http://images01.womaiapp.com/g/438459438/775286/0.08035281158308383.2%E5%9B%BE%E6%A0%87_09.png"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://m.womai.com/nh/sale/app/bbx/?env=APP&mid=0",
+          "picUrl": "http://images02.womaiapp.com/g/871370871/775287/0.8516394917595035.3%E5%9B%BE%E6%A0%87_10.png"
+        }
+      ],
+      "id": "2",
+      "promotionCount": "20",
+      "resourceId": "b408feaf-1108-49f6-a370-a6e1e39b0853",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images01.womaiapp.com/g/926592600/779277/0.6635678507614836.app+%E6%A8%AA%E9&%2365533;(2).jpg",
+      "pointType": "WebView",
+      "pointValue": "http://m.womai.com/nh/sale/2018-8/zzsg1808/?env=app&mid=0",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "d4b8e536-e850-4c95-9c9c-f5ca36b0f021",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1699",
+          "picUrl": "http://images02.womaiapp.com/g/870267870/778090/0.9369874669845352.372-749.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99920967",
+          "picUrl": "http://images02.womaiapp.com/g/661388661/780066/0.8017828923845184.374-373%EF%BC&%2365533;%EF%BC&%2365533;jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1862",
+          "picUrl": "http://images01.womaiapp.com/g/617266170/781354/0.6367587100070917.%E5%8C%97%E4%BA%AC%E8%87%AA%E5%AE%9A%E4%B9&%2365533;-%E9%B8%A1%E8%9B%8B.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1856",
+          "picUrl": "http://images01.womaiapp.com/g/992601992/779029/0.8960259107091151.374-374%EF%BC&%2365533;%EF%BC&%2365533;png",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99948508",
+          "picUrl": "http://images03.womaiapp.com/g/949326949/778983/0.19038001415426742.374-374%EF%BC&%2365533;%EF%BC&%2365533;(2).jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "8de8e4b9-99cd-4eb8-b599-65a02888f94c",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "25",
+      "pointType": "WebView",
+      "pointValue": "http://www.womai.com/sale/womaiH5/cgqd/index.html?env=app",
+      "promotionCount": "1",
+      "resourceId": "1f2bddeb-5879-4661-b93d-82dda200712b",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "id": 475,
+          "title": "支付宝首单随机立减，最高188元"
+        },
+        {
+          "id": 483,
+          "title": "跨境海关系统升级期间物流安排通知"
+        },
+        {
+          "id": 482,
+          "title": "翼支付满39元随机减活动说明"
+        },
+        {
+          "id": 481,
+          "title": "浦发满120减30活动说明"
+        },
+        {
+          "id": 480,
+          "title": "银联云闪付x手机闪付100减20活动说明"
+        },
+        {
+          "id": 474,
+          "title": "工行银联借记卡满100减30活动"
+        },
+        {
+          "id": 407,
+          "title": "领券中心卡券领取说明"
+        }
+      ],
+      "id": "4",
+      "promotionCount": "7",
+      "resourceId": "4e942a5b-ea66-429c-b8db-3297fa7c3127",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "picUrl": "http://pic.womai.com/upload/601/603/90900/216060/216062/600126/10608970_9_phone390_4201.jpg",
+          "pointType": "PrductDetail",
+          "pointValue": "10608970",
+          "price": "￥9.8",
+          "promotionType": "2",
+          "title": "【自营】问鼎食神蒜蓉粉丝扇贝（6粒装）250g   袋装"
+        },
+        {
+          "picUrl": "http://pic.womai.com/upload/601/603/606/64306/280375/82402/275397/609083/10606446_0_phone390_8674.jpg",
+          "pointType": "PrductDetail",
+          "pointValue": "10606446",
+          "price": "￥19.9",
+          "promotionType": "2",
+          "title": "【自营】中粮安至选黑椒牛排 160g*2片 盒装（非原切）"
+        },
+        {
+          "picUrl": "http://pic.womai.com/upload/601/603/606/6700/6705/6710/632223/10670105_1_phone390_553.jpg",
+          "pointType": "PrductDetail",
+          "pointValue": "10670105",
+          "price": "￥9.9",
+          "promotionType": "2",
+          "title": "【秒杀专享】悦活 新款果昔乳酸菌果汁饮品2口味混装 500ml*4瓶"
+        },
+        {
+          "picUrl": "http://pic.womai.com/upload/601/603/606/7300/570592/10705118_1_phone390_2560.jpg",
+          "pointType": "PrductDetail",
+          "pointValue": "10705118",
+          "price": "￥16.9",
+          "promotionType": "2",
+          "title": "【自营】香港啟泰 杏仁(南杏)（袋装250g）"
+        },
+        {
+          "picUrl": "http://pic.womai.com/upload/601/603/358812/378407/495407/495410/619496/10729843_5_phone390_6535.jpg",
+          "pointType": "PrductDetail",
+          "pointValue": "10729843",
+          "price": "￥13.8",
+          "promotionType": "2",
+          "title": "【自营】云南蒙自石榴4枚盒装800g(单果重180g-250g)"
+        },
+        {
+          "picUrl": "http://pic.womai.com/upload/601/604/279804/279805/279806/279809/10721228/10721228_1_phone390_1196.jpg",
+          "pointType": "PrductDetail",
+          "pointValue": "10721228",
+          "price": "￥85",
+          "promotionType": "2",
+          "title": "【12支装】德国教士小麦黑啤酒（瓶装 500ml*12)"
+        },
+        {
+          "picUrl": "http://pic.womai.com/upload/601/603/606/6600/6604/596495/10701446_1_phone390_8654.jpg",
+          "pointType": "PrductDetail",
+          "pointValue": "10701446",
+          "price": "￥89.9",
+          "promotionType": "2",
+          "title": "【自营】蒙牛纯甄巴氏杀菌酸牛奶利乐钻200g*24/箱（新老包装随机发货）"
+        }
+      ],
+      "endDate": 1535075999000,
+      "endTime": 64208,
+      "id": "5",
+      "isPromote": "0",
+      "promotionCount": "1",
+      "residualTime": "0",
+      "resourceId": "c7dd466c-a5fb-4c46-9de4-b196698e9d12",
+      "startDate": 1534989600000,
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "http://images03.womaiapp.com/g/278378278/745595/0.48449078900080833.%E8%83%8C%E6%99%AF%E6%A1%86%EF%BC%9A1125-721.jpg",
+      "dataList": [
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "726",
+          "picUrl": "http://images03.womaiapp.com/g/657135657/777014/0.7978095967079152.%E5%B7%A6%E5%9B%BE%EF%BC&%2365533;34-662-1.jpg",
+          "id": "20",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://m.womai.com/nh/sale/2017-9/bprl1709/?env=app&mid=0",
+          "picUrl": "http://images01.womaiapp.com/g/633829633/777012/0.8272834289746751.%E5%8F%B3%E4%B8%8A%E7%BA%A2%E5%BF%83%E7%8C%95%E7%8C%B4%E6%A1%83%EF%BC%9A529-334.jpg",
+          "id": "20",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99939952",
+          "picUrl": "http://images01.womaiapp.com/g/165966165/759203/0.1773533075428626.%E6%AC%A7%E8%AF%BA%E9%B2%9C%E7%89%9B%E5%A5&%2365533;9%E5%85&%2365533;jpg",
+          "id": "20",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1064",
+          "picUrl": "http://images01.womaiapp.com/g/843709843/774671/0.1699491514745327.%E5%8F%B3%E4%B8%8B2%EF%BC&%2365533;60-325---%E5%89%AF%E6%9C%AC.jpg",
+          "id": "20",
+          "promotionType": "1"
+        }
+      ],
+      "id": "20",
+      "isNewUser": "0",
+      "promotionCount": "5",
+      "resourceId": "fb43a9ae-eede-4af7-981f-79ada1b2f99d",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images02.womaiapp.com/g/112833112/779398/0.2019328977480216.%E5%AE%89%E5%BF%83%E5%90%83%E4%B8%93%E5%8C&%2365533;%E7%94%9F%E9%B2%9C%E5%BC&%2365533;%AD%A6%E5%AD&%2365533;jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "1866",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "206125e0-0ef0-40bc-9075-bc8e462fd6d9",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1434",
+          "picUrl": "http://images01.womaiapp.com/g/722736722/780823/0.19399293449184551.333.jpg",
+          "id": "16",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1793",
+          "picUrl": "http://images01.womaiapp.com/g/640260640/775299/0.3780150366604311.%E4%B9%9D%E5%AE%AB%E6%A0&%2365533;.jpg",
+          "id": "16",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "50",
+          "picUrl": "http://images02.womaiapp.com/g/791197791/775106/0.5233493449051805.3.jpg",
+          "id": "16",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://m.womai.com/nh/sale/2018-6/jkgf1806/?env=app&mid=0",
+          "picUrl": "http://images01.womaiapp.com/g/593301593/775099/0.13462798558323108.%E6%A8%A1%E6%9D%BF%EF%BC&%2365533;,4,7%EF%BC&%2365533;jpg",
+          "id": "16",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1870",
+          "picUrl": "http://images02.womaiapp.com/g/970790970/779635/0.06134798552090004.%E6%A8%A1%E6%9D%BF%EF%BC&%2365533;,5,8%EF%BC&%2365533;jpg",
+          "id": "16",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://m.womai.com/nh/sale/2018-8/mykxj1808/?env=app&mid=0",
+          "picUrl": "http://images03.womaiapp.com/g/513665130/775012/0.14088171106748015.%E6%A8%A1%E6%9D%BF%EF%BC&%2365533;,5,8%EF%BC&%2365533;jpg+2",
+          "id": "16",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "29",
+          "picUrl": "http://images02.womaiapp.com/g/470764700/775288/0.07690898213532404.%E6%A8%A1%E6%9D%BF%EF%BC&%2365533;,4,7%EF%BC&%2365533;jpg",
+          "id": "16",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1829",
+          "picUrl": "http://images02.womaiapp.com/g/309546309/775011/0.5292144452585157.%E6%A8%A1%E6%9D%BF%EF%BC&%2365533;,5,8%EF%BC&%2365533;jpg",
+          "id": "16",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://m.womai.com/nh/sale/2018-8/jycmj1808-1/31000/?env=app&mid=0",
+          "picUrl": "http://images01.womaiapp.com/g/324241324/775108/0.7764880393426951.%E4%B9%9D%E5%AE%AB%E6%A0&%2365533;%E5%BA%97%E5%BA%86%E7%8B%82%E6%AC%A2%E8%B6&%2365533;jpg",
+          "id": "16",
+          "promotionType": "1"
+        }
+      ],
+      "id": "16",
+      "promotionCount": "9",
+      "resourceId": "6c3420d5-d08b-47c4-a2a1-324843f3f47e",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images01.womaiapp.com/g/116741160/747155/0.6210439438388079.%E6%A0%87%E9%A2%98%E6%9D&%2365533;(1).png",
+      "pointType": "ActivityCenter",
+      "pointValue": "317",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "542f0353-3e6c-4c11-aaa2-f25e4f64270b",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images03.womaiapp.com/g/570393570/781525/0.052967775866225364.%E5%8C%97%E4%BA%AC1.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99939956",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "479972fa-0697-4c64-b115-691518b91489",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images02.womaiapp.com/g/225683225/781527/0.731019937570937.%E5%8C%97%E4%BA%AC2.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99939958",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "2748afad-8116-4f62-be8d-7d68e28a9e19",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images01.womaiapp.com/g/631278631/781531/0.16720904329378417.%E5%8C%97%E4%BA%AC3.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99943917",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "89416f73-d337-472a-be38-7f31c62fe9c6",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images01.womaiapp.com/g/517630517/776377/0.3160232538937139.%E5%A5%BD%E8%B4%A7%E6%8E%A8%E8%8D%90.jpg+%E7%9B%B4%E9&%2365533;",
+      "pointType": "ActivityCenter",
+      "pointValue": "838",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "1dc7781f-4aba-40a6-a2e3-0a1f0841ec28",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images01.womaiapp.com/g/219362190/772848/0.6645639010690939.%E5%A5%BD%E8%B4%A7%E6%8E%A8%E8%8D%90.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "1848",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "9870ab5a-7605-4ada-bae7-71423370a787",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images03.womaiapp.com/g/396990396/776576/0.9381481959562827.%E5%A5%BD%E8%B4%A7%E6%8E%A8%E8%8D%90.jpg+%E5%9B%BD%E4%B9%B3.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99948347",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "6b442c41-a847-46c4-892b-ee2ceecfa353",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images02.womaiapp.com/g/931449310/781537/0.6265203808866087.%E5%8C%97%E4%BA%AC4.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99939957",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "ab10e0e3-bfc7-46db-9c5d-f22794169986",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images03.womaiapp.com/g/500251050/776604/0.2992982427689832.%E5%A5%BD%E8%B4%A7%E6%8E%A8%E8%8D%90.jpg+%E9%9D%9E%E9%A4J.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99933227",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "6694b3a4-b8cc-4cef-9e28-923b39016335",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images02.womaiapp.com/g/198780198/776259/0.5338621612868593.%E5%A5%BD%E8%B4%A7%E6%8E%A8%E8%8D%90.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "1863",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "ce3ba163-b8a1-4918-b3ea-debe2570cf93",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images01.womaiapp.com/g/600441006/776663/0.45749305307828736.%E5%A5%BD%E8%B4%A7%E6%8E%A8%E8%8D%902.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99949347",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "679b57eb-0849-462a-b382-7f90e219c1b8",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "id": "13",
+      "picUrl": "http://images01.womaiapp.com/g/265588265/776662/0.7964102655055413.%E5%A5%BD%E8%B4%A7%E6%8E%A8%E8%8D%903.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "1814",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "c212ca96-f210-4110-892c-676c7c2bf9d4",
+      "title": "",
+      "type": "",
+      "userType": "2"
+    },
+    {
+      "backgroundPic": "",
+      "height": "3",
+      "id": "17",
+      "promotionCount": "1",
+      "resourceId": "567e65ba-a09b-4f13-9620-c1a2c5524d99",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images01.womaiapp.com/g/683890683/747150/0.8953301259452722.%E6%A0%87%E9%A2%98%E6%9D&%2365533;png",
+      "pointType": "ActivityCenter",
+      "pointValue": "50",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "c7d65010-f4db-4683-917b-a07f330de231",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "599179,632220,599178,599164,656221,656220,599165,656219,650156,650109,650108,650107,650104,650086,644083,632222,632221,632219,632218,632217,632216,599177,599176,599174,599173,599172,599171,599170,599169,599167,599166,599163,595098,595096,595095,595093,595092,648084,648083",
+          "picUrl": "http://images01.womaiapp.com/g/946358946/640442/0.1505806452048093.%EF%BC&%2365533;%EF%BC&%2365533;25-255_01.jpg"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "599722,647372,581923,644527,584321,633044,646102,646103,571600,571602,609087,584317,571601,622563,622566,584318,646105,646106,630755,609080,581922,630756,638287,646101,10613551,10613569,10613568,634791,641032,631326,631325,630758,632918,573698,599723,588823,588825,588822,588824,622564,622565,622567,633043,633038",
+          "picUrl": "http://images02.womaiapp.com/g/446566446/640443/0.8649131836719656.%EF%BC&%2365533;%EF%BC&%2365533;25-255_02.jpg"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "10732427,644624,520430,10720432,10727233,10719435,658903,10538866,658022,658089,659535,656352,610380,624165,616969,616970,644623,10683440,10683441,545752,572980,658730,520431,656351,10475862,613270,657944,10731027,658090",
+          "picUrl": "http://images03.womaiapp.com/g/515189515/640444/0.037630254474590785.%EF%BC&%2365533;%EF%BC&%2365533;25-255_03.jpg"
+        },
+        {
+          "pointType": "PrductListKeyWord",
+          "pointValue": "欧诺鲜",
+          "picUrl": "http://images01.womaiapp.com/g/687701687/640448/0.19272300654189134.%EF%BC&%2365533;%EF%BC&%2365533;25-255_04.jpg"
+        },
+        {
+          "pointType": "PrductListKeyWord",
+          "pointValue": "简沃",
+          "picUrl": "http://images01.womaiapp.com/g/944154944/653449/0.7043812761644368.%EF%BC&%2365533;%EF%BC&%2365533;25-255_05.jpg"
+        },
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99927107",
+          "picUrl": "http://images03.womaiapp.com/g/580307580/640450/0.02918315845648367.%EF%BC&%2365533;%EF%BC&%2365533;25-255_06.jpg"
+        },
+        {
+          "pointType": "PrductListCatagory",
+          "pointValue": "971929",
+          "picUrl": "http://images02.womaiapp.com/g/221857221/640451/0.07422373245069935.%EF%BC&%2365533;%EF%BC&%2365533;25-255_07.jpg"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "595767,606099,627244,620152,10318062,606098,593785,10318295,10318298,10318304,10318307,10318312,10318317,595378,595379,586126,10318263,10318268,593783,558747,588738,601627,591989,601628,10318074,10318035,593737,603932,603934,603941,603942,611713,611597,10527454,627593,627592,10330627,644249,10372712,10370429,605372,603887,623691,611841,10613042,10613231,10613049,10613050,10613232,10613233",
+          "picUrl": "http://images02.womaiapp.com/g/235883235/653448/0.35725508814225637.%EF%BC&%2365533;%EF%BC&%2365533;25-255_08.jpg"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "629890,10532646,647164,10537256,10581033,10540256,10540255,10540257,10568627,10568433,10681447,10537251,10537248,649435,10583888,10539260,10539261,10539445,10568431,10568432,10592628,10592629,10596030,10595831",
+          "picUrl": "http://images02.womaiapp.com/g/424673424/738741/0.940049639085968.%E6%82%A6%E6%B4%BB%E5%93%81%E7%89%8C%E5%A2%99logo.jpg"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "611085,654030,654031,10706074,632808,10505456,10606864,637705,637706,10611289",
+          "picUrl": "http://images02.womaiapp.com/g/328797328/650247/0.3144190716227496.%E5%93%81%E7%89%8C%E5%A2&%2365533;jpg"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "10318078,10318341,10529632,10318344,10384135,10614291,10614293,10614299,10591854,10614295,10614298,10640640,10640641,10640837,10335987,10336046,10336045,10529635",
+          "picUrl": "http://images01.womaiapp.com/g/887557887/640460/0.16090481331262663.%EF%BC&%2365533;%EF%BC&%2365533;25-255_01.jpg"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "645210,10659457,10659652,645208,611099,611100,611101,611098",
+          "picUrl": "http://images03.womaiapp.com/g/429956429/640461/0.7487767104813563.%EF%BC&%2365533;%EF%BC&%2365533;25-255_02.jpg"
+        },
+        {
+          "pointType": "PrductListCatagory",
+          "pointValue": "978998",
+          "picUrl": "http://images02.womaiapp.com/g/935715935/640462/0.1387035090092279.%EF%BC&%2365533;%EF%BC&%2365533;25-255_03.jpg"
+        },
+        {
+          "pointType": "PrductListKeyWord",
+          "pointValue": "果芬",
+          "picUrl": "http://images02.womaiapp.com/g/911566911/640463/0.3680598368967066.%EF%BC&%2365533;%EF%BC&%2365533;25-255_04.jpg"
+        },
+        {
+          "pointType": "PrductListCatagory",
+          "pointValue": "979491",
+          "picUrl": "http://images03.womaiapp.com/g/237649237/640464/0.6456318928925209.%EF%BC&%2365533;%EF%BC&%2365533;25-255_05.jpg"
+        },
+        {
+          "pointType": "PrductListKeyWord",
+          "pointValue": "精彩哥本哈根曲奇",
+          "picUrl": "http://images01.womaiapp.com/g/680919680/640465/0.7346296568818189.%EF%BC&%2365533;%EF%BC&%2365533;25-255_06.jpg"
+        },
+        {
+          "pointType": "PrductListKeyWord",
+          "pointValue": "cocoway",
+          "picUrl": "http://images01.womaiapp.com/g/835772835/640466/0.06699517855398929.%EF%BC&%2365533;%EF%BC&%2365533;25-255_07.jpg"
+        },
+        {
+          "pointType": "PrductListKeyWord",
+          "pointValue": "好沃德",
+          "picUrl": "http://images01.womaiapp.com/g/140959014/640467/0.817701485857614.%EF%BC&%2365533;%EF%BC&%2365533;25-255_08.jpg"
+        },
+        {
+          "pointType": "PrductListKeyWord",
+          "pointValue": "怡美特",
+          "picUrl": "http://images01.womaiapp.com/g/899713899/640468/1.861671625229544E-4.%EF%BC&%2365533;%EF%BC&%2365533;25-255_09.jpg"
+        },
+        {
+          "pointType": "PrductListKeyWord",
+          "pointValue": "贝贝星",
+          "picUrl": "http://images03.womaiapp.com/g/229940229/640469/0.46528313866253956.%EF%BC&%2365533;%EF%BC&%2365533;25-255_10.jpg"
+        }
+      ],
+      "id": "2",
+      "promotionCount": "20",
+      "resourceId": "00e35d34-b694-4ff5-9180-29ca05efe703",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images03.womaiapp.com/g/780905078/748712/0.803823352874873.%E6%A0%87%E9%A2%98.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "15",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "f23bb2ef-311d-47a1-87cc-b326e13b1bbe",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images03.womaiapp.com/g/478307478/764277/0.38074849832587665.0.17542034378803184.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "755",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "4b5baa31-93b9-41df-bf72-d24e156ce5a8",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "PrductListCatagory",
+          "pointValue": "500219",
+          "picUrl": "http://images01.womaiapp.com/g/739710739/775325/0.527449385547782.%E6%A5%BC%E5%B1%822_03.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "520430,644624,10732427,658320,658089,653863,653861,659535,657307,658903,659481,657306,10720432,10475862,660050,10727233,656352,659478,658022,659618,658319,660054,624165,610380,660302,616970,10538866,656351,644623,10683440,10683441,545752,572980,658730,520431,10719435,613270,660049,659476,659474,657944,658090,654970,654968,658035,659222,653860,653862,655046,654679,655047,655656,655657,656442,657288,659125",
+          "picUrl": "http://images02.womaiapp.com/g/830288830/745300/0.23408820532865726.%E5%8F%B3%E4%B8%8A1.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "640908,625367,582531,627632,645971,631199,625343,613286,625348,567648,653185,653183,639209,625341,578172,612169,639206,625344,643507,609087,599722,581923,10670829,647372,588821,622563,633187,10705114,557495,642635,644526,608167,639894,545616,625334,625335,639892,632167,608166,625345,582516,524839,646103,582515,643508,625357,631200,602837,638417,631722,646102,582510,645972,582530,578169,645434,535477,625320,578176,547191,629803,547186,629821,575463,651125,650374,651130,645965,629810,640907,608171,638421,613288,645976,608168,612166,625358,627179,562136,607277,643506,625337,645969,612168,643502,608170,524853,645430,622082,613813,627180,639891,633156,557499,632131,631249,545610,639611,562138,602840,643505,646322,626297,582519,562134,641910,646320,547189,629804,638420,554373,620157,638171,638177,646521,646520,646309,545611,537439,639207,645975,646308,625339,625321,589539,589530,620748,638169,607285,620758,537436,646307,645963,632134,639230,607284,651124,639208,645974,638415",
+          "picUrl": "http://images01.womaiapp.com/g/789622789/745302/0.8838833008372626.%E5%8F%B3%E4%B8%8A2.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "599179,599165,599164,595098,599170,632217,595096,644083,599175,599167,599174,599177,599173,599166,595092,599169,599172,632219,595093,595095,632220,632218,632222,632216,599171,599178,632221,599163,520996,574669,566943,562625,527560,506775,611848,591811,611847,592858,520995,591796,526166,592852,554214,611850,591803,550729,592853,580719,592856,526167,644082,630568,532601,591810,532599,532606,504263,504269,562613,595528,550726,550728,506770,637130,550731,644248,506766",
+          "picUrl": "http://images02.womaiapp.com/g/953292953/745313/0.4775345078332366.%E5%8F%B3%E4%B8%8B3.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListCatagory",
+          "pointValue": "219343",
+          "picUrl": "http://images01.womaiapp.com/g/337863370/745314/0.8161743100885998.%E5%8F%B3%E4%B8%8B4.jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "a0818bc7-1a12-466a-ad9a-837182dd294a",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images01.womaiapp.com/g/319122319/748714/0.04552385662118863.2%E6%A0%87%E9%A2%98.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "24",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "77904514-3d16-4931-947c-354e4b161383",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images03.womaiapp.com/g/169186169/745255/0.24896675932861456.%E6%A8%AA%E9&%2365533;%EF%BC&%2365533;125-528.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99947707",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "43ba113a-cc9b-46e1-83e4-18f87946ba70",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99944887",
+          "picUrl": "http://images02.womaiapp.com/g/720258720/772825/0.3037182115931254.%E5%B7%A6%E5%9B%BE%EF%BC&%2365533;72-749.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "592752,592749,597477,592751,592750,595685,598908,617384,599142,572628,595681,598912,526030,617369,611026,626541,617392,617396,598910,640437,560297,617386,617387,10564837,10564835,10564836,10560630,10560631,10560378,10560377,10514642,10379863,10564839,10565041,10568292,518042,562234,622473,582547,619218,619220,578252,626247,610046,610047,599106,599105,632230,643453,602407,513882,629230,636591,506961,635226,637104,629778,637079,632991,630821,630898,525423,525425",
+          "picUrl": "http://images01.womaiapp.com/g/782403782/775328/0.1225612750655466.%E6%A5%BC%E5%B1%822_18.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "302",
+          "picUrl": "http://images03.womaiapp.com/g/824108240/775118/0.8773648771578191.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;,2%EF%BC%89%EF%BC%9A374-373.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99948872",
+          "picUrl": "http://images02.womaiapp.com/g/232849232/757872/0.27067901646919457.%E8%BF%9B%E5%8F%A3%E9%9B%B6%E9%A4J374-374.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99949127",
+          "picUrl": "http://images03.womaiapp.com/g/533389533/767405/0.771697234389019.%E5%8F%B3%E4%B8%8B%EF%BC&%2365533;,4%EF%BC%89%EF%BC%9A374-374.jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "02a34b6b-c444-443f-bf0a-ee493fbc8cbf",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images02.womaiapp.com/g/160509160/748717/0.0990735349032138.3%E6%A0%87%E9%A2%98.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "50",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "c23f5a2e-da24-4115-9d08-65dacf6028e8",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images03.womaiapp.com/g/263481263/752630/0.30157069917515833.%E6%A8%AA%E9&%2365533;%EF%BC&%2365533;125-528.jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99948349",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "a20dd2aa-f8de-466e-b534-717dcffb85c3",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99949187",
+          "picUrl": "http://images02.womaiapp.com/g/959988959/776378/0.9824613733639854.ddf490bda1b37c5ab4832ab66f7d760.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99939952",
+          "picUrl": "http://images02.womaiapp.com/g/290201290/745776/0.04433863847376085.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;%EF%BC%89%EF%BC%9A374-373-%E6%AC%A7%E8%AF%BA%E9%B2&%2365533;jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1711",
+          "picUrl": "http://images02.womaiapp.com/g/983836983/745781/0.5060569943031873.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;%EF%BC%89%EF%BC%9A374-373-%E6%97%B6%E6&%2365533;.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "WebView",
+          "pointValue": "http://m.womai.com/nh/sale/2017-9/bpycym1709/?env=app&mid=0",
+          "picUrl": "http://images02.womaiapp.com/g/960520960/745783/0.4672277144197575.%E5%8F%B3%E4%B8%8B%EF%BC&%2365533;%EF%BC%89%EF%BC%9A374-374-%E6%82%A0%E9%87%87%E7%8E%89%E7%B1%B3%E6%B1&%2365533;jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "CityActivityPrductList",
+          "pointValue": "99949367",
+          "picUrl": "http://images03.womaiapp.com/g/619381619/775055/0.3364909052004932.%E5%8F%B3%E4%B8%8B%EF%BC&%2365533;,4%EF%BC%89%EF%BC%9A374-374.jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "adc2bf89-ff79-4bec-9d7a-f71953f09a72",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images02.womaiapp.com/g/321293321/748726/0.5746478389567999.4%E6%A0%87%E9%A2%98.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "1064",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "3190ccdf-4d26-4786-a042-e4c14a4210f9",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images03.womaiapp.com/g/728724728/751615/0.04383542658211659.%E6%A8%AA%E9&%2365533;%EF%BC&%2365533;125-528-(2).jpg",
+      "pointType": "CityActivityPrductList",
+      "pointValue": "99948487",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "561b6a9c-8ef1-4d19-9da0-90ec32009488",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "PrductListCatagory",
+          "pointValue": "6700",
+          "picUrl": "http://images01.womaiapp.com/g/639417639/745988/0.2662482621115396.%E6%A5%BC%E5%B1%822_42.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1767",
+          "picUrl": "http://images01.womaiapp.com/g/554275540/752649/0.3426992365115321.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;,2%EF%BC%89%EF%BC%9A374-373.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1829",
+          "picUrl": "http://images01.womaiapp.com/g/181858181/775019/0.13751971915808647.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;,2%EF%BC%89%EF%BC%9A374-373.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1869",
+          "picUrl": "http://images01.womaiapp.com/g/770416770/779636/0.32040771908233445.1869.png",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1842",
+          "picUrl": "http://images03.womaiapp.com/g/569750569/771412/0.5664969943076056.%EF%BC&%2365533;,4%EF%BC%89%EF%BC%9A374-374-(1)(1).jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "6092e402-0734-4823-ab61-db52df804371",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images02.womaiapp.com/g/729197290/748719/0.17036360723422883.5%E6%A0%87%E9%A2%98.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "746",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "2e4314c4-86b0-4d9e-b382-0b1ce13e039b",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images01.womaiapp.com/g/539638539/775032/0.8281953461922154.%E6%A8%AA%E9&%2365533;%EF%BC&%2365533;125-528.jpg",
+      "pointType": "WebView",
+      "pointValue": "http://m.womai.com/nh/sale/2018-8/mykxj1808/?env=app&mid=0",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "e1eeaa87-4173-4313-91b6-6321281566fa",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1844",
+          "picUrl": "http://images01.womaiapp.com/g/887288887/775033/0.5328226509208468.%E5%B7%A6%E5%9B%BE%EF%BC&%2365533;72-749.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1843",
+          "picUrl": "http://images02.womaiapp.com/g/775852775/775035/0.3261286378434902.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;%EF%BC%89%EF%BC%9A374-373.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1847",
+          "picUrl": "http://images01.womaiapp.com/g/397471397/775034/0.7292336372475224.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;%EF%BC%89%EF%BC%9A374-373.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1853",
+          "picUrl": "http://images01.womaiapp.com/g/514253514/775037/0.3854210451558764.%E5%8F%B3%E4%B8%8B%EF%BC&%2365533;%EF%BC%89%EF%BC%9A374-374.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1811",
+          "picUrl": "http://images02.womaiapp.com/g/880369088/775039/0.5063025106974199.%E5%8F%B3%E4%B8%8B%EF%BC&%2365533;%EF%BC%89%EF%BC%9A374-374.jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "5121ff45-7e95-449f-aa58-e2ce66301a8a",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images02.womaiapp.com/g/220643220/748720/0.8210860283893404.6%E6%A0%87%E9%A2%98.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "29",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "2ca868f7-9916-4f31-b9d2-f2e5cfbbbaef",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images02.womaiapp.com/g/730417730/776783/0.4148419668049367.%E6%A8%AA%E9&%2365533;%EF%BC&%2365533;125-528.jpg",
+      "pointType": "PrductListIds",
+      "pointValue": "625757,573127,625390,535296,518361,625392,534804,625387,642543,625374,625379,629003,518377,625384,627285,625375,553205,625385,625378,625380,629004,625382,625389,625373,625391,625377,637328,637327,637326",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "82f44975-0213-4607-92df-57543cd1fe65",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "10720431,658842,657987,659262,656944,656943,656930,10720259,10537247,656939,656936,658841,658840,657985,657988,657986,658003,658002,657548,657547,657546,657545,657544,657543,657542,657541,657540,657539,657538,657537,657536,657535,657534",
+          "picUrl": "http://images03.womaiapp.com/g/204923204/776566/0.8723178750886526.%E5%B7%A6%E5%9B%BE%EF%BC&%2365533;72-749.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "657015,657078,657052,657031,657010,657027,657032,632241,657076,657028,657060,657049,657026,657039,657022,657001,657055,657063,605359,657003,657061,657045,657053,657080,657038,657007,657054,657065,657012,657037,657050,657064,657062,657042,657018,657068,657041,657077,657033,657066,657081,657071,657043,657008,657009,657029,657034,657069,657073,657067,657017,657079,657057,657004,601943,632236,657021,657019,657070,657035,657051,657044,657072,657013,657000,657020,657023,657036,657011,601944,657056,657024,657005,657030,657059,657006,657048,657074,657058,657046,657002,657075,657047,657014,657040,657016,657025,657114,657140,657109,657120,657122,657112,657117,657092,657116,657095,657130,657098,657137,657135,657126,657107,657123,657097,657138,657090,657115,657124,657110,657099,657103,657127,657101,657131,657093,657139,657096,657108,657125,657104,657088,657136,657094,657091,657105,657119,657121,657086,657129,657128,657113,657102,657100,657111,657133,657106,657134,657087,657132,657118,657089,657085,580542,567426,567425,608369,601651,536838,536821,567445,639238,657304,657302,657300,657303,657297,657301,657305",
+          "picUrl": "http://images01.womaiapp.com/g/712518712/776548/0.6976469497754931.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;,2%EF%BC%89%EF%BC%9A374-373---002.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "637120,637117,637118,637119,637116,637123,637115,637122,637021,637121,637070,637069,637071,637073,637074,637075,637076,637087,637078,637088,637077,637089,637080,637090,637092,637082,637091,637083,637085,637084,637095,648982,649001,649002,649003,649004,648981,649000,648996,648995,648980,648998,648975,648997,648999,637056,637067,637054,637058,637068,637066,637059,637061,637065,637053,637049,637052,637043,637042,637048,637047,637046,637044,637045,637113,637114,637112,637111,637098,637102,637110,637108,637109,637107,637097,637101,637103,637100,637099,637106,637105,637104,649691,648990,648989,648991,648974,648977,648985,649644,648978,648984,648983",
+          "picUrl": "http://images01.womaiapp.com/g/431614310/776549/0.21155383136125516.%E5%8F%B3%E4%B8%8A%EF%BC&%2365533;,2%EF%BC%89%EF%BC%9A374-373.jpg+1.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "658105,658116,658108,658103,658106,658114,658122,658129,658115,658102,658111,658099,658126,658107,658119,658124,658094,658096,658098,658133,658125,658109,658118,658097,658095,658117,658130,658123,658113,658110,658112,658131,658132,658100,658104,658128,658127,658121,658120",
+          "picUrl": "http://images01.womaiapp.com/g/761128761/776555/0.7033544362828021.%E5%8F%B3%E4%B8%8B%EF%BC&%2365533;,4%EF%BC%89%EF%BC%9A374-374--02.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "PrductListIds",
+          "pointValue": "641760,649662,637332,641761,645746,641764,641765,641762,641783,641784,649665,649663,649664,649661,641780,641781,656711,629364,629365,629319,629320,629322,629323,629374,629378,629379,629382,629377,629381,643526,643527,629372,629387,629380,629318,629384,629327,629326,629333,629311,629325,629314,629324,629360,629359,629351,656710,629341,629352,629354,629344,629339,637329,637330",
+          "picUrl": "http://images01.womaiapp.com/g/987194987/776789/0.38024054757160064.%E5%8F%B3%E4%B8%8B%EF%BC&%2365533;,4%EF%BC%89%EF%BC%9A374-374-02.jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "0e2ba7d3-37f0-45f4-96a4-c3bb9d2d8fef",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images02.womaiapp.com/g/445680445/756383/0.06947720234770183.%E8%B7%A8%E5%A2%83.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "68",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "13510d6f-4685-4b0c-b5e8-b7c2d86d161b",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images01.womaiapp.com/g/650250650/766429/0.025944025236379398.APP%E4%B8%BB%E9%A2%98%E9%A6&%2365533;%E6%A8%AA%E9&%2365533;%EF%BC&%2365533;125-528-2.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "1111",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "e9c007e4-48f2-4967-847b-fcd45b5d86b2",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1709",
+          "picUrl": "http://images01.womaiapp.com/g/131617131/766430/1.7030219111291434E-4.APP%E4%B8%BB%E9%A2%98%E9%A6&%2365533;%E7%AB%96%E5%9B%BE%EF%BC&%2365533;72-749.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "134",
+          "picUrl": "http://images01.womaiapp.com/g/935761935/766432/0.07724621816509847.APP%E4%B8%BB%E9%A2%98%E9%A6&%2365533;%E5%B7&%2365533;.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "1188",
+          "picUrl": "http://images02.womaiapp.com/g/880488088/766433/0.6224543862173374.APP%E4%B8%BB%E9%A2%98%E9%A6&%2365533;%E5%8F&%2365533;.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "153",
+          "picUrl": "http://images02.womaiapp.com/g/943163943/766435/0.5116443084382077.APP%E4%B8%BB%E9%A2%98%E9%A6&%2365533;%E5%B7&%2365533;.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "137",
+          "picUrl": "http://images02.womaiapp.com/g/357800357/766437/0.6102112342723908.APP%E4%B8%BB%E9%A2%98%E9%A6&%2365533;%E5%8F&%2365533;.jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "7bb77302-14dc-42b5-b2a1-54f92a24251e",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "6",
+      "picUrl": "http://images01.womaiapp.com/g/532125532/756709/0.855661805639541.%E6%A0%87%E9%A2%98.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "6",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "35ebaf90-d9c9-4e83-b293-96e79f991670",
+      "title": "",
+      "type": "",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "3",
+      "picUrl": "http://images02.womaiapp.com/g/922356922/779727/0.9356985000210015.%E6%A8%AA%E9&%2365533;%EF%BC&%2365533;125-528.jpg",
+      "pointType": "ActivityCenter",
+      "pointValue": "780",
+      "promotionCount": "1",
+      "promotionType": "1",
+      "resourceId": "3e02c56b-335a-45c2-b7a7-465f884a2b76",
+      "title": "",
+      "type": "promotion_bit",
+      "userType": ""
+    },
+    {
+      "backgroundPic": "",
+      "dataList": [
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "6",
+          "picUrl": "http://images02.womaiapp.com/g/624482624/779729/0.5596263792565342.%E5%B7%A6%E5%9B%BE%EF%BC&%2365533;72-749.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "468",
+          "picUrl": "http://images02.womaiapp.com/g/489465489/779736/0.1253920086538841.1.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "766",
+          "picUrl": "http://images02.womaiapp.com/g/698606698/779738/0.6894003343689219.2.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "421",
+          "picUrl": "http://images03.womaiapp.com/g/982324982/779739/0.3667456605915691.3.jpg",
+          "id": "14",
+          "promotionType": "1"
+        },
+        {
+          "pointType": "ActivityCenter",
+          "pointValue": "410",
+          "picUrl": "http://images02.womaiapp.com/g/334454334/779747/0.07323855880889052.4.jpg",
+          "id": "14",
+          "promotionType": "1"
+        }
+      ],
+      "id": "14",
+      "promotionCount": "5",
+      "resourceId": "03fc2abe-a8d7-427e-95d2-3de43f807f26",
+      "title": "",
+      "type": ""
+    },
+    {
+      "backgroundPic": "",
+      "id": "15",
+      "promotionCount": "1",
+      "resourceId": "e9467b5f-da2a-4f29-bf3f-da43a8858ecb",
+      "title": "",
+      "type": "products"
+    }
+  ]
+}
